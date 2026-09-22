@@ -1,16 +1,26 @@
-## Hi there 👋
+# Junior Android Developer
 
-<!--
-**Agssd/Agssd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Junior Android Developer with hands-on experience building mobile applications through academic coursework, practical training, and personal pet projects. I specialize in developing modern Android apps using **Kotlin** and **Jetpack Compose**, following clean architecture principles like **MVVM**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+- **Languages & IDE:** Kotlin, Android Studio
+- **UI & Design:** Jetpack Compose, Material Design 3
+- **Architecture:** MVVM, Android Jetpack (ViewModel, StateFlow)
+- **Asynchronous Programming:** Kotlin Coroutines, Flow
+- **Networking & API:** REST APIs, Retrofit 2, JSON Parsing
+- **Local Storage:** Room Database
+- **Tools & Version Control:** Git, GitHub, Gradle
+
+### Academic, Practical & Pet Projects
+
+- **Modern UI Development:** Designed and built reactive, declarative user interfaces using **Jetpack Compose**.
+- **Architecture Implementation:** Structured apps using the **MVVM** pattern to ensure clean separation of concerns and maintainability.
+- **REST API Integration:** Connected apps to remote backends using **Retrofit**, handling asynchronous network requests and **JSON** parsing.
+- **Local Data Caching:** Implemented **Room Database** for seamless offline capability and local data persistence.
+- **Concurrency:** Leveraged **Kotlin Coroutines** for smooth asynchronous operations and high UI responsiveness.
+- **Version Control:** Managed source code and project history effectively using **Git**.
