@@ -6,7 +6,7 @@ Junior Android Developer building modern mobile apps with **Kotlin** and **Jetpa
 ## Technical Skills
 * **Core:** Kotlin, Android Studio, Jetpack Compose
 * **Architecture & Async:** MVVM, Coroutines, Flow
-* **Data & Networking:** REST APIs, Retrofit 2, JSON, Room Database
+* **Data & Networking:** REST APIs, Retrofit 2, Room Database
 * **Tools:** Git, GitHub, Gradle
 
 ## Key Highlights
