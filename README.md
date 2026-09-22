@@ -1,4 +1,4 @@
-# Junior Android Developer
+# JHi, I'm Nikolay 👋
 
 ## Profile
 Junior Android Developer building modern mobile apps with **Kotlin** and **Jetpack Compose**. Experienced in **MVVM architecture**, **Kotlin Coroutines**, REST API integration using **Retrofit**, and local storage with **Room**.
